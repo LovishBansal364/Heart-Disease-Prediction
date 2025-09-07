@@ -22,7 +22,7 @@ It uses a trained **KNN model** along with preprocessing (scaling + feature enco
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
 
-##🌐 Deployment
+## 🌐 Deployment
 
 You can easily deploy this app using Streamlit Community Cloud:
 
@@ -39,7 +39,7 @@ pandas
 plotly
 scikit-learn
 
-##Deploy 🎉
+## 🎉 Deploy 
 
 📊 Example Output
 
